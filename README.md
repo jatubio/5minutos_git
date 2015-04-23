@@ -11,6 +11,8 @@ Si quieres modificar, corregir o agregar información, eres bienvenid@.
 
 Puedes modificar la [Wiki](https://github.com/jatubio/5minutos_git/wiki) directamente o [Clonarla](https://github.com/jatubio/5minutos_git.wiki.git) como un repositorio.
 
-Espero que te sea útil!
+Espero que te sea útil   
 
-<a name="myfootnote1">1</a>: **5 minutos** en castellano es una expresión 'atemporal', es decir, que se usa mucho en expresiones como 'tardo sólo 5 minutos', sólo 5 minutos más', etc... y queda implícito que esos 5 minutos pueden alargarse indefinidamente ;)
+<hr>
+
+<a name="myfootnote1">**1**</a>: **5 minutos** en castellano es una expresión 'atemporal', es decir, que se usa mucho en expresiones como 'tardo sólo 5 minutos', sólo 5 minutos más', etc... y queda implícito que esos 5 minutos pueden alargarse indefinidamente ;)
